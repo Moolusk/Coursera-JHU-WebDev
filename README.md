@@ -1,2 +1,2 @@
-# module2-solution
-Coursera JHU - Module 2
+# Coursera-JHU-WebDev
+Coursera JHU - Assignements
